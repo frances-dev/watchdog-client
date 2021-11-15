@@ -1,0 +1,101 @@
+[
+  {
+    "key": 1,
+    "img": "https://www.theiphonewiki.com/w/images/6/6c/Watch.jpg",
+    "title": "Apple Watch (1st generation)",
+    "desc": "The Apple Watch Series 1 is frequently offered on sale throughout the year, and especially over the holidays. Should you buy it? The Series 1 name is confusing because it's actually newer than the original Apple Watch -- now dubbed 'Series Zero' which launched in 2015. In fact, the Series 1 debuted in 2016 alongside the now-discontinued Series 2, but both of them shared the identical second-generation speed and smarts. But if you're looking to get a basic smartwatch and you're not a runner or swimmer, the Series 1 is still probably your best budget bet.",
+    "price": 155.99,
+    "spec": "CPU: S7002 - Apple S1 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 4.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 2,
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FWVD2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1580325978232",
+    "title": "Apple Watch Series 1",
+    "desc": "Apple Watch Series 1 can use all these features. And, a year later, it still handles well. I wore one on my wrist again, and it's still good -- in fact, for everyday use, it's everything you'd need. It also costs less than the Apple Watch Series 3. But it also feels like less of a great deal this year than it was last year. It's slower, and the price gap between it and the non-cellular Series 3 is smaller than last year's jump from Series 1 to Series 2.",
+    "price": 288.99,
+    "spec": "CPU: S7034 - Apple S2 || RAM: 1 GB || Storage: 16 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 4.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 3,
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FTUW2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1555353563414",
+    "title": "Apple Unique Watch 2",
+    "desc": "The Apple Watch Series 2 is the closest we've come to a genuine smartwatch/fitness tracker hybrid yet. In addition to a faster processor and a brighter screen than the original model, the Series 2 has a waterproof design for swimmers, and built-in GPS so runners can leave their iPhones at home. It's a lot more expensive than a Pebble, and fitness features aren't quite as advanced as you'll get with some dedicated trackers we've tested, but it's a solid choice for iOS users looking for the best of both worlds. Even so, like most smarwatches, it still isn't a must-have device.",
+    "price": 320.99,
+    "spec": "CPU: S7452 - Apple S3 || RAM: 1 GB || Storage: 32 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 4,
+    "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FU6L2?wid=1144&hei=1144&fmt=jpeg&qlt=80&.v=1555353653656",
+    "title": "Apple Smart Watch 3",
+    "desc": "When you compare the Series 3 with the LG Watch Sport, the difference is astounding. The Watch Sport is far too bulky for everyday wear or exercise. The Apple Watch doesn't particularly disappear on your wrist like a Timex, but next to LG's model, it looks positively petite. The only noticeable design change from previous models is a red dot on the digital crown. There's no real reason for it—it just indicates that you have the LTE version (the GPS-only model has the same plain crown as the Series 1 and Series 2).",
+    "price": 425.99,
+    "spec": "CPU: S7002 - Apple S4 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 5,
+    "img": "https://www.theiphonewiki.com/w/images/a/a7/Apple_Watch_Series_5.png",
+    "title": "Apple Watch Pro 4",
+    "desc": "The Series 4 marks the biggest tweak to the Apple Watch design since it first launched in 2014, in the form of a larger display. The watch comes in 40mm and 44mm case sizes, up from 38mm and 42mm. This translates to about 30 percent more screen real estate, which, at a glance, doesn't seem like a whole lot. There is less of a bezel, but I initially had trouble seeing much of a change between the 38mm Series 3 and our 40mm Series 4.",
+    "price": 585.99,
+    "spec": "CPU: S7002 - Apple S5 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 6,
+    "img": "https://www.theiphonewiki.com/w/images/2/2b/Apple_Watch_SE.jpg",
+    "title": "Apple Watch Genius 5",
+    "desc": "The Apple Watch is truly a product of iteration—every year, it gets better just enough to stay ahead of the competition. This year, the Apple Watch Series 5 doesn't come with any aesthetic changes or improvements to battery life, and its starting price. So what's different? In addition to a new processor, the Series 5 comes with a Compass app and an International Emergency Calling feature, and watchOS 6 brings new apps like Cycle Tracking for women and a Noise app that measures sound exposure.",
+    "price": 695.99,
+    "spec": "CPU: S7002 - Apple S6 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 7,
+    "img": "https://www.theiphonewiki.com/w/images/a/ab/Apple_Watch_Series_6.jpg",
+    "title": "Apple Watch 6 Series",
+    "desc": "The Apple aluminum Series 6 is available in new navy blue and red hues, as well as gold, silver, and space gray. The stainless steel model comes in a new classic yellow gold tone, a grayish-black called graphite, and silver. The titanium model comes in natural titanium and space black. Swapping out the strap is a big part of the Apple Watch experience for a lot of people, and this year Apple debuted some nice new options, including the $49 Solo Loop (which you can choose to get with the watch instead of the default Sport Loop) and the $99 Braided Solo Loop. Both feature no clasps, buckles, or overlapping parts, and are available in a range of colors.",
+    "price": 725.99,
+    "spec": "CPU: S7002 - Apple S7 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 8,
+    "img": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202110/apple-watch-series-7-press_1.jpg?mOrebZRtx_FSqHPuhODREQ79O.xQtuV4&size=770:433",
+    "title": "Apple Watch 7 Super",
+    "desc": "The Apple Watch Series 7 is Cupertino's latest flagship smartwatch. It offers all the health, safety, and lifestyle features of its highly rated predecessor, but with a larger display that's easier to read, improved dust protection and crack resistance, and a redesigned charging system that takes less time to juice up. Though a minor update from the Series 6, the seventh generation's refinements make an already outstanding smartwatch more practical for everyday tasks like reading and responding to texts, checking the time when your wrist is down, tracking your outdoor activities, and monitoring your sleep. The Series 7 is Apple's most attractive and durable wearable yet, and an Editors' Choice award winner. ",
+    "price": 850.99,
+    "spec": "CPU: S7002 - Apple S8 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 5.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 9,
+    "img": "https://navbharattimes.indiatimes.com/photo/msid-86119019,imgsize-599981/pic.jpg",
+    "title": "Apple Watch 8th Gen",
+    "desc": "WatchOS 8, the next generation of Apple's smartwatch operating system, will also deliver new workout tracking options, mindfulness features, watch faces, texting tools, and more. The Cupertino tech giant offered a first look at these new features during its Worldwide Developers Conference virtual keynote on Monday. “With watchOS 8, we’re bringing more convenient access to places users live, work, and visit with significant updates to Home and Wallet, expanding support for both physical and mental well-being, and enabling richer personal connections with the new Portraits face and updates to Messages, 'Kevin Lynch, Apple’s vice president of technology, said in a statement. ",
+    "price": 990.99,
+    "spec": "CPU: S7002 - Apple S9 || RAM: 512 MB || Storage: 8 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 6.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  },
+
+  {
+    "key": 10,
+    "img": "https://cdna.artstation.com/p/assets/images/images/031/774/602/large/parth-khaladkar-asset.jpg?1604558951",
+    "title": "Apple Watch 9 For The Future",
+    "desc": "Apple is planning a complete overhaul of the Home app in watchOS 9 to make it easier to control compatible smart home devices from your wrist. At the top, it will show which devices are currently in use and let you quickly control them. A new Intercom feature will let you broadcast an audio message throughout your home, or to specific rooms, via the HomePod, HomePod mini, and other devices. The app will also surface relevant accessories and scenes based on the time of day and how often you use them. In the morning, it might offer a good morning scene and controls for your bedroom lights.",
+    "price": 1280.99,
+    "spec": "CPU: S7002 - Apple S10 || RAM: 4 GB || Storage: 500 GB || Wi-Fi: 802.11 b/g/n (2.4 GHz) || Bluetooth: 7.0",
+    "variation": "Apple Watch || Apple Watch Sport || Apple Watch Edition"
+  }
+]

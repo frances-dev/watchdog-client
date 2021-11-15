@@ -1,0 +1,50 @@
+.headerSec {
+  background: url("https://images.indianexpress.com/2021/09/Apple-Watch-Series-71.jpg") no-repeat center right/cover;
+  height: 60vh;
+  color: #fff; }
+  .headerSec .headerMain {
+    text-align: center;
+    padding-top: 20%; }
+
+    .detailsSec{
+      background: url("https://merchandising-assets.bestbuy.ca/bltc8653f66842bff7f/blt6a3401a34c0039e7/608a038a49c1fd103f4ab715/wt-20210428-feature-apple-watch-s-en.jpg?width=2877&quality=80&auto=webp") no-repeat center right/cover;
+      height: 50vh;
+      color: rgb(29, 29, 29); }
+
+      .detImg{
+        width: 600px;
+      }
+
+      .subSecDetail img{
+        width:100px;
+      }
+
+
+.headMain{
+    font-family: muli, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .headMainImg:hover{
+    width: 100% !important;
+  }
+    .headMainImg img:hover {
+      animation: headMainImg .3s linear;
+      /* width: 95% !important; */
+      background: linear-gradient(to right, #111430, #343966);      
+    }
+  }
+  
+.btnHire{
+    background-color: #111430;
+}
+
+  @keyframes btnHire {
+    from {
+      transform: scaleX(0.8);
+    }
+    to {
+      transform: scaleX(1);
+    }
+  }

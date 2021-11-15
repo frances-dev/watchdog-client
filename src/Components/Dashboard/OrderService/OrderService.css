@@ -1,0 +1,15 @@
+.color{
+    background-color: peachpuff;
+}
+
+.orderServe{
+    width: 100%;
+}
+@media screen and (max-width: 736px){
+    .orderServe {
+        width: 100%;
+    }
+    .detImg{
+        width: 300px;
+      }
+}
